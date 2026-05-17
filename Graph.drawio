@@ -1,0 +1,184 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="magCCSkZv9UgILgwo9k8" name="MusicGraph">
+    <mxGraphModel dx="1032" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="G-7SsHlKmMGYj3esIXxC-0" />
+        <mxCell id="G-7SsHlKmMGYj3esIXxC-1" parent="G-7SsHlKmMGYj3esIXxC-0" />
+        <mxCell id="v8216QkbN63SiUyqlpac-75" parent="G-7SsHlKmMGYj3esIXxC-1" style="text;html=1;align=center;fontStyle=1;fontSize=18;" value="Графовая база данных: Музыкальные группы" vertex="1">
+          <mxGeometry height="30" width="400" x="675.26318359375" y="134.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-76" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="Нервы (Rock)" vertex="1">
+          <mxGeometry height="40" width="120" x="355.26318359375" y="184.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-77" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="ЛСП (Rap)" vertex="1">
+          <mxGeometry height="40" width="120" x="355.26318359375" y="244.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-78" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Кис-Кис (Rock)" vertex="1">
+          <mxGeometry height="40" width="120" x="355.26318359375" y="304.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-79" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Пошлая Молли (Rock)" vertex="1">
+          <mxGeometry height="40" width="120" x="355.26318359375" y="364.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-80" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Nirvana (Grunge)" vertex="1">
+          <mxGeometry height="40" width="120" x="355.26318359375" y="424.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-81" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Папин Олимпос (Alt Rock)" vertex="1">
+          <mxGeometry height="40" width="120" x="355.26318359375" y="484.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-82" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Полматери (Jazz)" vertex="1">
+          <mxGeometry height="40" width="120" x="355.26318359375" y="544.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-83" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Måneskin (Rock)" vertex="1">
+          <mxGeometry height="40" width="120" x="355.26318359375" y="604.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-84" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Go_A (Electro)" vertex="1">
+          <mxGeometry height="40" width="120" x="355.26318359375" y="664.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-85" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Валентин Стрыкало (Rock)" vertex="1">
+          <mxGeometry height="40" width="120" x="355.26318359375" y="724.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-86" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="Юрий Каплан (vocal/guitar)" vertex="1">
+          <mxGeometry height="35" width="150" x="545.26318359375" y="184.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-87" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="Арина Окунева (vocal/bass)" vertex="1">
+          <mxGeometry height="35" width="150" x="545.26318359375" y="304.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-88" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="Артём Мельников (guitar)" vertex="1">
+          <mxGeometry height="35" width="150" x="545.26318359375" y="484.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-89" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="Алина Олешева (drums)" vertex="1">
+          <mxGeometry height="35" width="150" x="545.26318359375" y="364.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-90" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="Kurt Cobain (vocals)" vertex="1">
+          <mxGeometry height="35" width="150" x="545.26318359375" y="424.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-91" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="Костя Боровский (guitar)" vertex="1">
+          <mxGeometry height="35" width="150" x="545.26318359375" y="244.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-92" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="Krist Novoselic (bass)" vertex="1">
+          <mxGeometry height="35" width="150" x="545.26318359375" y="604.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-93" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="Dave Grohl (drums)" vertex="1">
+          <mxGeometry height="35" width="150" x="545.26318359375" y="664.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-94" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="Женя Мильковский (vocals)" vertex="1">
+          <mxGeometry height="35" width="150" x="545.26318359375" y="724.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-95" parent="G-7SsHlKmMGYj3esIXxC-1" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" value="Сергей Ковальчук (bass)" vertex="1">
+          <mxGeometry height="35" width="150" x="545.26318359375" y="544.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-96" parent="G-7SsHlKmMGYj3esIXxC-1" style="rhombus;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Вдохновение (2021)" vertex="1">
+          <mxGeometry height="45" width="120" x="785.26318359375" y="179.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-97" parent="G-7SsHlKmMGYj3esIXxC-1" style="rhombus;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Городские ритмы (2017)" vertex="1">
+          <mxGeometry height="45" width="120" x="785.26318359375" y="244.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-98" parent="G-7SsHlKmMGYj3esIXxC-1" style="rhombus;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Ночной экспресс (2020)" vertex="1">
+          <mxGeometry height="45" width="120" x="785.26318359375" y="309.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-99" parent="G-7SsHlKmMGYj3esIXxC-1" style="rhombus;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Первая любовь (2018)" vertex="1">
+          <mxGeometry height="45" width="120" x="785.26318359375" y="374.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-100" parent="G-7SsHlKmMGYj3esIXxC-1" style="rhombus;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Nevermind (1991)" vertex="1">
+          <mxGeometry height="45" width="120" x="785.26318359375" y="439.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-101" parent="G-7SsHlKmMGYj3esIXxC-1" style="rhombus;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Танцевальная вечеринка (2021)" vertex="1">
+          <mxGeometry height="45" width="120" x="785.26318359375" y="504.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-102" parent="G-7SsHlKmMGYj3esIXxC-1" style="rhombus;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Академия звука (2022)" vertex="1">
+          <mxGeometry height="45" width="120" x="785.26318359375" y="569.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-103" parent="G-7SsHlKmMGYj3esIXxC-1" style="rhombus;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Rush! (2023)" vertex="1">
+          <mxGeometry height="45" width="120" x="785.26318359375" y="634.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-104" parent="G-7SsHlKmMGYj3esIXxC-1" style="rhombus;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Народная культура (2016)" vertex="1">
+          <mxGeometry height="45" width="120" x="785.26318359375" y="699.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-105" parent="G-7SsHlKmMGYj3esIXxC-1" style="rhombus;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=10;" value="Свободное плавание (2014)" vertex="1">
+          <mxGeometry height="45" width="120" x="785.26318359375" y="764.4210590563323" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-106" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-86" style="endArrow=classic;strokeColor=#82b366;" target="v8216QkbN63SiUyqlpac-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-107" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-87" style="endArrow=classic;strokeColor=#82b366;" target="v8216QkbN63SiUyqlpac-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-108" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-88" style="endArrow=classic;strokeColor=#82b366;" target="v8216QkbN63SiUyqlpac-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-109" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-89" style="endArrow=classic;strokeColor=#82b366;" target="v8216QkbN63SiUyqlpac-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-110" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-90" style="endArrow=classic;strokeColor=#82b366;" target="v8216QkbN63SiUyqlpac-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-111" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-91" style="endArrow=classic;strokeColor=#82b366;" target="v8216QkbN63SiUyqlpac-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-112" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-92" style="endArrow=classic;strokeColor=#82b366;" target="v8216QkbN63SiUyqlpac-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-113" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-93" style="endArrow=classic;strokeColor=#82b366;" target="v8216QkbN63SiUyqlpac-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-114" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-94" style="endArrow=classic;strokeColor=#82b366;" target="v8216QkbN63SiUyqlpac-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-115" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-95" style="endArrow=classic;strokeColor=#82b366;" target="v8216QkbN63SiUyqlpac-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-116" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-76" style="endArrow=classic;strokeColor=#6c8ebf;" target="v8216QkbN63SiUyqlpac-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-117" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-77" style="endArrow=classic;strokeColor=#6c8ebf;" target="v8216QkbN63SiUyqlpac-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-118" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-78" style="endArrow=classic;strokeColor=#6c8ebf;" target="v8216QkbN63SiUyqlpac-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-119" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-79" style="endArrow=classic;strokeColor=#6c8ebf;" target="v8216QkbN63SiUyqlpac-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-120" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-80" style="endArrow=classic;strokeColor=#6c8ebf;" target="v8216QkbN63SiUyqlpac-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-121" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-81" style="endArrow=classic;strokeColor=#6c8ebf;" target="v8216QkbN63SiUyqlpac-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-122" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-82" style="endArrow=classic;strokeColor=#6c8ebf;" target="v8216QkbN63SiUyqlpac-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-123" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-83" style="endArrow=classic;strokeColor=#6c8ebf;" target="v8216QkbN63SiUyqlpac-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-124" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-84" style="endArrow=classic;strokeColor=#6c8ebf;" target="v8216QkbN63SiUyqlpac-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-125" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-85" style="endArrow=classic;strokeColor=#6c8ebf;" target="v8216QkbN63SiUyqlpac-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-126" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-76" style="endArrow=classic;strokeColor=#b85450;strokeWidth=2;dashed=1;" target="v8216QkbN63SiUyqlpac-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-127" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-76" style="endArrow=classic;strokeColor=#b85450;strokeWidth=2;dashed=1;" target="v8216QkbN63SiUyqlpac-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-128" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-76" style="endArrow=classic;strokeColor=#b85450;strokeWidth=2;dashed=1;" target="v8216QkbN63SiUyqlpac-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-129" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-76" style="endArrow=classic;strokeColor=#b85450;strokeWidth=2;dashed=1;" target="v8216QkbN63SiUyqlpac-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-130" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-79" style="endArrow=classic;strokeColor=#b85450;strokeWidth=2;dashed=1;" target="v8216QkbN63SiUyqlpac-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-131" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-79" style="endArrow=classic;strokeColor=#b85450;strokeWidth=2;dashed=1;" target="v8216QkbN63SiUyqlpac-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v8216QkbN63SiUyqlpac-132" edge="1" parent="G-7SsHlKmMGYj3esIXxC-1" source="v8216QkbN63SiUyqlpac-83" style="endArrow=classic;strokeColor=#b85450;strokeWidth=2;dashed=1;" target="v8216QkbN63SiUyqlpac-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
